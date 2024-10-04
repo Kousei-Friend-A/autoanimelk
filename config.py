@@ -3,18 +3,18 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID"))
-API_HASH = getenv("API_HASH")
-BOT_TOKEN = getenv("BOT_TOKEN")
+API_ID = int(getenv("8143727"))
+API_HASH = getenv("e2e9b22c6522465b62d8445840a526b1")
+BOT_TOKEN = getenv("7838707055:AAFQGT34pjPbjqZzo9LyaleBNDD-QpFFZII")
 
-MONGO_DB_URI = getenv("MONGO_DB_URI")
+MONGO_DB_URI = getenv("mongodb+srv://friendakouseimanu:nonamemanu911@cluster0.1trpq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
-INDEX_ID = int(getenv("INDEX_ID"))
-UPLOADS_ID = int(getenv("UPLOADS_ID"))
+INDEX_ID = int(getenv("-1002440194508"))
+UPLOADS_ID = int(getenv("-1002448258068"))
 
-STATUS_ID = int(getenv("STATUS_ID"))
-SCHEDULE_ID = int(getenv("SCHEDULE_ID"))
+STATUS_ID = int(getenv("2"))
+SCHEDULE_ID = int(getenv("3"))
 
-CHANNEL_TITLE = getenv("CHANNEL_TITLE")
-INDEX_USERNAME = getenv("INDEX_USERNAME")
-UPLOADS_USERNAME = getenv("UPLOADS_USERNAME")
+CHANNEL_TITLE = getenv("Anime Upload Main")
+INDEX_USERNAME = getenv("AnimeUploadIndex")
+UPLOADS_USERNAME = getenv("animeupmain")
