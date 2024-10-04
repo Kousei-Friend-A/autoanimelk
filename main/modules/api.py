@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 
-hosts = ['api.consumet.org']
+hosts = ['animeapilk.vercel.app']
 
 api = [
     'https://{}/anime/gogoanime/watch/',
